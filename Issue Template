@@ -1,0 +1,27 @@
+---
+name: Feature / Requirement
+about: Use this template for stakeholder requirements and feature requests
+title: "" # leave blank to be filled by creator
+labels: enhancement
+assignees: ''
+---
+
+
+### As a
+> [role]
+
+
+### I need
+> [what you want]
+
+
+### So that
+> [why you want it]
+
+
+### Acceptance Criteria
+- [ ] Given ... When ... Then ...
+
+
+### Notes / Additional Context
+- Related:
